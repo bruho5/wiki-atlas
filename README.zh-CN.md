@@ -6,6 +6,8 @@
 
 ## 试用
 
+**[打开公开演示](https://wiki-atlas-demo.punky-pp.chatgpt.site/#en/Hades)** · 无需登录。
+
 默认从神话人物 Hades 出发。任何部署的首页地址加上 `#en/Hades` 即可直达。试试 **Hades → Zagreus → 返回**，原来的地图视角会恢复。
 
 - **维基 / Wiki** 选择要搜索的中文或英文维基；**界面 / UI** 独立切换界面语言。

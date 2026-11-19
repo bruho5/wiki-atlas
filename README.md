@@ -6,6 +6,8 @@
 
 ## Try it
 
+**[Open the live demo](https://wiki-atlas-demo.punky-pp.chatgpt.site/#en/Hades)** · No sign-in required.
+
 The default starting point is Hades, the mythological figure. To link directly to this example on any deployment, append `#en/Hades` to the home URL. Try **Hades → Zagreus → Back** to see browsing history restore your previous view.
 
 - Search English or Chinese Wikipedia for an article. The control labeled **Wiki** selects the content source; **UI** changes the language of the interface separately.
